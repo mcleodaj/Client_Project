@@ -6,7 +6,7 @@ Deployed website/app for users to rate and review movies. Users are divided into
 - HTML/CSS
 - OMDB API
 
-###features include:
+###Features include:
 - BCrypted registration and login
 - Trusted reviewer authorizations
 - Soft search

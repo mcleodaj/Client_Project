@@ -1,24 +1,12 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#Rotten IMDB
+Deployed website/app for users to rate and review movies. Users are divided into trusted reviewers and regular users with different tiers of review and rating permissions. 
+Built using:
+- Ruby on Rails 
+- HTML/CSS
+- OMDB API
+features include:
+- BCrypted registration and login
+- Trusted reviewer authorizations
+- Soft search
+- Comments
+- Mobile first design
